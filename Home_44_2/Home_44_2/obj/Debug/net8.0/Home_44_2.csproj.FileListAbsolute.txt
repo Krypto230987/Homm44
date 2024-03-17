@@ -1,0 +1,15 @@
+C:\Users\offic\RiderProjects\Home_44_2\Home_44_2\bin\Debug\net8.0\Home_44_2.exe
+C:\Users\offic\RiderProjects\Home_44_2\Home_44_2\bin\Debug\net8.0\Home_44_2.deps.json
+C:\Users\offic\RiderProjects\Home_44_2\Home_44_2\bin\Debug\net8.0\Home_44_2.runtimeconfig.json
+C:\Users\offic\RiderProjects\Home_44_2\Home_44_2\bin\Debug\net8.0\Home_44_2.dll
+C:\Users\offic\RiderProjects\Home_44_2\Home_44_2\bin\Debug\net8.0\Home_44_2.pdb
+C:\Users\offic\RiderProjects\Home_44_2\Home_44_2\obj\Debug\net8.0\Home_44_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\offic\RiderProjects\Home_44_2\Home_44_2\obj\Debug\net8.0\Home_44_2.AssemblyInfoInputs.cache
+C:\Users\offic\RiderProjects\Home_44_2\Home_44_2\obj\Debug\net8.0\Home_44_2.AssemblyInfo.cs
+C:\Users\offic\RiderProjects\Home_44_2\Home_44_2\obj\Debug\net8.0\Home_44_2.csproj.CoreCompileInputs.cache
+C:\Users\offic\RiderProjects\Home_44_2\Home_44_2\obj\Debug\net8.0\Home_44_2.sourcelink.json
+C:\Users\offic\RiderProjects\Home_44_2\Home_44_2\obj\Debug\net8.0\Home_44_2.dll
+C:\Users\offic\RiderProjects\Home_44_2\Home_44_2\obj\Debug\net8.0\refint\Home_44_2.dll
+C:\Users\offic\RiderProjects\Home_44_2\Home_44_2\obj\Debug\net8.0\Home_44_2.pdb
+C:\Users\offic\RiderProjects\Home_44_2\Home_44_2\obj\Debug\net8.0\Home_44_2.genruntimeconfig.cache
+C:\Users\offic\RiderProjects\Home_44_2\Home_44_2\obj\Debug\net8.0\ref\Home_44_2.dll
